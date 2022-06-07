@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Khurshed P. Fitter"
 title_separator          : "-"
-name                     : &name "Firdaus P. Fitter"
+name                     : &name "Khurshed P. Fitter"
 description              : &description "Learning 🐣"
 url                      : https://glazedonuts.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
