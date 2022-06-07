@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a senior year undergraduate student in Electronics and Communication Enginerring at the [Visvesvaraya National Institute Of Technology](https://vnit.ac.in/). My research interests are along the conjunctions of physics, mathematics and machine learning. 
+<!-- 
+multimodal applications of Computer Vision, Natural Language Processing and Continual Learning. I am actively mentoring a few of juniors at [IvLabs](http://www.ivlabs.in/), the AI and Robotics Lab of my university.  -->
+
+Currently, I am working at the [Laboratoire de Physique Théorique](https://www.lpt.ups-tlse.fr/?lang=en) under the supervision of [Dr. Ion Nechita](https://ion.nechita.net/), University of Paul Sabatier III, France and [Dr. Cecilia Lancien](https://cecilialancien.wixsite.com/mysite), University of Grenoble, France. Previously, I worked on visual emotion recognition in Twitter with [Dr. Martin Gärttner](https://mbqd.de/author/martin-garttner/) as a DAAD WISE Scholar at the [Many-Body Quantum Dynamics Group](https://mbqd.de/), Heidelberg University. 
+
+I am open to any full-time long-term reserach positions after my graduation from Fall 2022 onwards.
+
+News
+======
+
+* Oct 2021: Our paper [Enhancing Context Through Contrast](http://preregister.science/papers_21neurips/18_paper.pdf) was accepted at NeurIPS Pre-registeration workshop.
+* Sep 2021: Ranked amoung top 100 teams in Amazon ML Challenge.
+* May 2021: Our paper [Paying Attention to Video Generation](http://proceedings.mlr.press/v148/bhagwatkar21a.html) was published in PMLR.
+* May 2021: I was awarded DAAD WISE Scholarship.
+* Aug 2020: Selected as a Vice-Chairperson for IEEE VNIT Student Branch.
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -45,6 +63,7 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
+For more info -->
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
