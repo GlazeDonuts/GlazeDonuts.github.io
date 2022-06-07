@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Khurshed P. Fitter"
   avatar           : "https://avatars.githubusercontent.com/u/27892015?v=4"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Biography pending"
   location         : "Mumbai, India"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YRpikQYAAAAJ&hl=en&authuser=4"
-  email            :
+  email            : "khurshedpf@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
